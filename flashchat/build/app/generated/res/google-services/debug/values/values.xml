@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">61997514957-t1nio2640ne8n7hn3ft5m6ds9hv9lpta.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">61997514957</string>
+    <string name="google_api_key" translatable="false">AIzaSyB-8iZDibYVvDUVrRP9FK-lrjo6I_A0kK8</string>
+    <string name="google_app_id" translatable="false">1:61997514957:android:45619a9693c3a537022984</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-8iZDibYVvDUVrRP9FK-lrjo6I_A0kK8</string>
+    <string name="google_storage_bucket" translatable="false">chatappafirebase.appspot.com</string>
+    <string name="project_id" translatable="false">chatappafirebase</string>
+</resources>

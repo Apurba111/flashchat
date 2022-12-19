@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61997514957",
+    "project_id": "chatappafirebase",
+    "storage_bucket": "chatappafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61997514957:android:45619a9693c3a537022984",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61997514957-hokl2fdpmq5bu9b3j6t91c5h6vcduiji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp_firebase",
+            "certificate_hash": "04d8fcac689149f57aae0bba880bf84ae648d215"
+          }
+        },
+        {
+          "client_id": "61997514957-t1nio2640ne8n7hn3ft5m6ds9hv9lpta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8iZDibYVvDUVrRP9FK-lrjo6I_A0kK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61997514957-t1nio2640ne8n7hn3ft5m6ds9hv9lpta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
